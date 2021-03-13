@@ -9,7 +9,9 @@ ms.subservice: powerbi-desktop
 ms.topic: how-to
 ms.date: 08/11/2020
 ms.author: davidi
-
+tags:
+- Power BI desktop
+- Oracle
 LocalizationGroup: Connect to data
 ---
 # Connect to an Oracle database with Power BI Desktop
