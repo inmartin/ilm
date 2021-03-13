@@ -3,7 +3,6 @@ title: Connect to an Oracle database with Power BI Desktop
 description: Steps and downloads necessary to connect Oracle to Power BI Desktop
 author: davidiseminger
 ms.reviewer: ''
-
 ms.service: powerbi
 ms.subservice: powerbi-desktop
 ms.topic: how-to
